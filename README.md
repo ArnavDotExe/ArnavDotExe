@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hello! I'm Arnav M, an aspiring AI and Machine Learning student with a keen interest in IoT and embedded systems. Currently pursuing Bachelor in Engineering with a focus on AI and Machine Learning.
+Hello! I'm Arnav M, an aspiring AI and Machine Learning student interested in IoT and embedded systems. I am currently pursuing a Bachelor's degree in Engineering with a focus on AI and Machine Learning.
 
 ## 💼 Professional Background
 
@@ -17,9 +17,9 @@ Hello! I'm Arnav M, an aspiring AI and Machine Learning student with a keen inte
 
 ## 🌱 Projects
 
-1. [Car Theft Auto] - Developed a chatbot using natural language processing techniques.
+1. [Car Theft Auto] - CarTheftAuto is a Car anti-theft device made using Nodemcu and A9G pudding board, it has built-in GPS and a GPRS module
 2. [IoT Weather Station] - Created an IoT-based weather station using Nodemcu and sensors.
-3. [Student Monitoring System] - Student monitoring system is a GUI based application made using Java and MySQL for the Database
+3. [Student Monitoring System] -  Student-monitoring-system is a GUI-based application made using Java and MySQL for the Database
 ## 📚 Education 
 
 - BE in AIML from SIESGST, Year of Graduation: 2026
@@ -27,6 +27,7 @@ Hello! I'm Arnav M, an aspiring AI and Machine Learning student with a keen inte
 ## 📫 Contact
 
 - **Email:** arnav.mangaonkar12@gmail.com
+- **Instagram** [@arnav.py](https://www.instagram.com/arnav.py/)
 
 ## 🤝 Let's Connect!
 
