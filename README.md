@@ -11,9 +11,7 @@ Hello! I'm Arnav M, an aspiring AI and Machine Learning student interested in Io
 ## 🚀 Skills
 
 - **Programming Languages:** Java, C, Embedded C, Python
-- **Technologies:** Docker
 - **IoT and Embedded Systems:** Raspberry Pi, Arduino, ESP 32, Nodemcu
-- **Networking:** TCP/IP, DNS, DHCP
 
 ## 📚 Education 
 
