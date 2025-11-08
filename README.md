@@ -4,9 +4,9 @@ I work at the overlap of AI, embedded systems, and computer vision. Sometimes th
 
 ## What I Work On  
 - AI/ML models for anomaly detection, classification, and decision-making  
-- Computer vision in real-time environments (traffic systems, 3D printing, robotics)  
+- Computer vision in real-time environments   
 - IoT setups with Raspberry Pi, Arduino, ESP32, NodeMCU  
-- Networking and privacy experiments (DNS over VPN, Pi-hole)  
+- Networking and privacy experiments 
 - Side projects ranging from retro gaming builds to robotics with custom motor control  
 
 ## Tech Stack  
